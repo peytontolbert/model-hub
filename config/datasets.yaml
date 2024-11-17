@@ -1,0 +1,12 @@
+datasets:
+  dataset1:
+    name: MNIST
+    type: image
+    num_classes: 10
+    input_size: 28
+  dataset2:
+    name: CIFAR10
+    type: image
+    num_classes: 10
+    input_size: 32
+  # Add configurations for up to 10 datasets
